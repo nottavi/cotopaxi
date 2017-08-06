@@ -1,0 +1,19 @@
+{
+  "name": "biiid",
+  "version": "1.0.0",
+  "description": "A calendar in React for internal use",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nottavi/cotopaxi.git"
+  },
+  "author": "Nicolas Ottavi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nottavi/cotopaxi/issues"
+  },
+  "homepage": "https://github.com/nottavi/cotopaxi#readme"
+}
